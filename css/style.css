@@ -24,6 +24,11 @@
     width: 100%;
 }
 
+.modal-img-responsive{
+    height: 100%;
+    width: 100%;
+}
+
 @media screen and (max-width: 575px){
   .c1{ margin-top: 10px;}
 
